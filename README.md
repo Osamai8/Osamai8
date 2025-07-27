@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **osamassg2@gmail.com**
+- 📫 How to reach me **islamosama488@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/osamaislam/](https://www.linkedin.com/in/osamaislam/)
 
