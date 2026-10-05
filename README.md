@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Osama Islam</h1>
 
 <h3 align="center">
-Frontend Developer · React · Next.js · TypeScript
+Full-Stack Developer · React · Next.js · Node.js · TypeScript
 </h3>
 
 <p align="center">
-Building scalable, accessible web applications and data-heavy dashboards for enterprise and social-sector clients.
+Building scalable web applications end-to-end, from polished, accessible UIs to APIs, databases, and real-time services.
 <br/>
-📍 India-based · Open to relocation worldwide & remote · Open to frontend, React & full-stack roles
+📍 India-based · Open to relocation worldwide & remote · Open to full-stack, backend-leaning, and frontend roles
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Frontend developer with **4+ years** of experience building production platforms end-to-end, from architecture to deployment
-- ⚛️ Specialized in **React, Next.js, TypeScript**, reusable component libraries, and modern frontend architecture
-- 📊 Experienced in dashboard systems, data visualization, and role-based UI workflows
+- 💼 Full-stack developer with **4+ years** of experience owning production platforms from architecture to deployment
+- ⚛️ Frontend-specialized with **React, Next.js, and TypeScript**, backed by hands-on **Node.js, Express, GraphQL, and Prisma** experience
+- 🔌 Built backend-for-frontend APIs, real-time services with Socket.io, and secure authentication and role-based access systems
+- 📊 Experienced in dashboards, data visualization, and dynamic role-based workflows
 - ♿ Accessibility-minded: built component libraries to **WCAG 2.1 AA** standards
-- 🔧 Comfortable across the stack with Node.js, Express, GraphQL, and Prisma
-- 🌱 Currently deepening my backend and system design skills
+- 🌱 Currently deepening my system design and scalable architecture skills
 
 ---
 
@@ -29,31 +29,35 @@ Building scalable, accessible web applications and data-heavy dashboards for ent
 React.js · Next.js · TypeScript · JavaScript (ES6+) · Redux · Zustand · TanStack Query · Tailwind CSS · SCSS · Material UI · Ant Design · ShadCN
 
 **Backend & APIs**  
-Node.js · Express.js · REST APIs · GraphQL · MongoDB · Prisma · Socket.io · OAuth · JWT
+Node.js · Express.js · REST APIs · GraphQL · Socket.io · OAuth · JWT · Next.js Server Actions
+
+**Databases & ORM**  
+MongoDB · Prisma
 
 **Data Visualization**  
 Plotly.js · Chart.js
 
-**Testing, Quality & Tooling**  
-Jest · React Testing Library · Sentry · WCAG 2.1 · Git · Vite · Webpack · Docker (basics) · CI/CD
+**DevOps, Testing & Tooling**  
+Docker (basics) · AWS S3 · CI/CD · Git · Vite · Webpack · Jest · React Testing Library · Sentry
 
 ---
 
 ## 📌 Featured Projects
 
-- **[Ticket Bounty](https://ticket-bounty-eight.vercel.app)**: full-stack SaaS ticketing platform built with Next.js Server Components and Server Actions, custom authentication, multi-tenant RBAC, and Stripe billing
+- **[Ticket Bounty](https://ticket-bounty-eight.vercel.app)**: full-stack SaaS ticketing platform covering the whole lifecycle from UI to database, with custom authentication (no third-party auth), multi-tenant RBAC, Next.js Server Components and Server Actions, a layered architecture, and Stripe billing
+- **Amazon Future Engineer, Class Chats Portal**: real-time class chat, scheduling, and auth flows for schools and educators, with backend-for-frontend APIs and Socket.io notification services
 - **[ISDM DataSights](https://datashakti.isdm.org.in)**: data analytics platform with a Plotly.js visualization layer and filterable dashboards for researchers and policymakers
-- **Amazon Future Engineer, Class Chats Portal**: real-time class chat and scheduling platform for schools and educators, built with a reusable component library from scratch
-- **Jan Sahas MRC Portal**: multi-portal system with role-based access for Super Admins, Org Admins, and Field Workers
+- **Jan Sahas MRC Portal**: dynamic multi-portal system where a Super Admin provisions independent organizational portals, with RBAC across three user types
 
 ---
 
 ## 💼 Experience Highlights
 
+- Sole or lead developer across concurrent client platforms, independently extending into backend API and database work
 - Built reusable component libraries and design systems that cut new feature development time by ~30%
-- Delivered interactive analytics dashboards and a Plotly.js visualization tool supporting 10+ chart types
-- Developed dynamic role- and permission-based systems across multiple client platforms
+- Designed APIs, real-time notification services, and permission-based systems for multi-role applications
 - Improved performance with lazy loading and API caching, lowering server costs by 18%
+- Added error boundaries and Sentry monitoring, and wrote unit and integration tests with Jest and React Testing Library
 - Contributed to projects associated with Amazon, Capgemini, and CRISIL
 
 ---
